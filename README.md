@@ -1,12 +1,9 @@
 <h1 align="center">Hola 👋, soy Duván Merchán</h1>
+<img height="250" src="./hola.gif" align="right"/>
 <h3 align="center">Un Junior Full Stack developer de Colombia</h3>
-<h3 align="center">Bienvenidos a mi repositorio 🧑‍💻</h3>
+<h3 >Bienvenidos a mi repositorio 🧑‍💻</h3>
 
 Trabajo con tecnologias como React, Node, Express, SQL, Jwt, Redux, Slices, Postgres, ORMs,etc. Me apasiona el codigo, me adapto muy rapido a equipos de trabajo y me encanta resolver problemas.
-
-<h3 align="center">Intereses en otros lenguajes</h3>
-- 🌱 Estoy aprendiendo **Python**
-- 🌱 Deseo aprender **Ruby**
 
 <h3 align="left">Contactame a traves de:</h3>
 <p align="left">
